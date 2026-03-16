@@ -17,7 +17,7 @@ import TabItem from '@theme/TabItem';
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot woo</TabItem><TabItem value='//'>//woo</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot woo</TabItem><TabItem value='//'>//woo</TabItem></Tabs>
 
 ### Options
 
@@ -26,8 +26,8 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. shredit
  1. shreditWoo
  1. woo
- 1. wooieZowee
  1. wooNoises
+ 1. wooieZowee
  1. wooo
 
 ### Command Not Allowed in these Channels
@@ -35,6 +35,6 @@ This command has multiple voice outputs. Entering a number after the command nam
 - the_board
 - attachment-spam
 - games
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

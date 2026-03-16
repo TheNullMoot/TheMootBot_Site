@@ -23,7 +23,7 @@ This command has an alias which can be used instead of the default command name.
 ::::
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot rileyclip</TabItem><TabItem value='//'>//rileyclip</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot rileyclip</TabItem><TabItem value='//'>//rileyclip</TabItem></Tabs>
 
 ### Options
 
@@ -46,6 +46,6 @@ This command has multiple voice outputs. Entering a number after the command nam
 - the_board
 - attachment-spam
 - games
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

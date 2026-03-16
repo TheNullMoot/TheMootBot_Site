@@ -23,13 +23,13 @@ This command has an alias which can be used instead of the default command name.
 ::::
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot pressf [user]</TabItem><TabItem value='//'>//pressf [user]</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot pressf [user]</TabItem><TabItem value='//'>//pressf [user]</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Mention** command group are not allowed in the following channels:
 - attachment-spam
 - bots
 - games
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

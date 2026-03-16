@@ -17,12 +17,12 @@ import TabItem from '@theme/TabItem';
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot ryan</TabItem><TabItem value='//'>//ryan</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot ryan</TabItem><TabItem value='//'>//ryan</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
 - bots
 - games
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

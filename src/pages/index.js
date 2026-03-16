@@ -16,7 +16,7 @@ export default function Home()
     <Layout title={`Home`}>
       <div className={styles.centered}>
         <img className={styles.circleImage} src={iconPicture} alt="My Icon" />
-        <h1 className="hero__title">{"TheJewBot"}</h1>
+        <h1 className="hero__title">{"TheMootBot"}</h1>
 
         {/*quote stuff*/}
         <div className={styles.quoteContainer}>

@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'What Is This?',
     description: (
       <>
-        This is the website for a discord bot TheJewBot.
+        This is the website for a discord bot TheMootBot.
       </>
     ),
   },

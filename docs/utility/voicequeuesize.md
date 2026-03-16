@@ -23,13 +23,13 @@ This command has an alias which can be used instead of the default command name.
 ::::
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot voicequeuesize</TabItem><TabItem value='//'>//voicequeuesize</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot voicequeuesize</TabItem><TabItem value='//'>//voicequeuesize</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Utility** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
 - bots
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

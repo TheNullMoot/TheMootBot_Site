@@ -7,7 +7,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "TheJewBot's Site",
+  title: "TheMootBot's Site",
 
   //TODO randomize this text in the future
   tagline: 'The best discord bot the works most of the time',
@@ -16,14 +16,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://thejewgamer.github.io/',
-  baseUrl: '/TheJewBot_Site/',
+  url: 'https://thenullmoot.github.io/',
+  baseUrl: '/TheMootBot_Site/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TheJewGamer', // Usually your GitHub org/user name.
-  projectName: 'TheJewBot_Site', // Usually your repo name.
+  organizationName: 'TheNullMoot', // Usually your GitHub org/user name.
+  projectName: 'TheMootBot_Site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -56,9 +56,9 @@ const config = {
     ({
       image: 'img/botIcon.png',
       navbar: {
-        title: "TheJewBot's Site",
+        title: "TheMootBot's Site",
         logo: {
-          alt: "TheJewBot's Logo",
+          alt: "TheMootBot's Logo",
           src: 'img/botIcon.png',
         },
         items: [
@@ -103,14 +103,14 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/TheJewGamer',
-            label: 'TheJewGamer',
+            href: 'https://github.com/TheNullMoot',
+            label: 'TheNullMoot',
             position: 'right',
           },
         ],
       },
       footer: {
-        copyright: `Copyright © ${new Date().getFullYear()} TheJewBot's Site. Built by TheJewGamer.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TheMootBot's Site. Built by TheNullMoot.`,
       },
       prism: {
         theme: lightCodeTheme,

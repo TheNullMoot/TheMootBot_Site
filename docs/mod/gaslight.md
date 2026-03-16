@@ -17,7 +17,7 @@ import TabItem from '@theme/TabItem';
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot gaslight [user]</TabItem><TabItem value='//'>//gaslight [user]</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot gaslight [user]</TabItem><TabItem value='//'>//gaslight [user]</TabItem></Tabs>
 
 ### You Can't use this Command
 ::::warning These command are not allowed to be used by peasants in any channel.

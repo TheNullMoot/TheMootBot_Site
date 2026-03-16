@@ -23,12 +23,12 @@ This command has aliases which can be used instead of the default command name. 
 ::::
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot prepping</TabItem><TabItem value='//'>//prepping</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot prepping</TabItem><TabItem value='//'>//prepping</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
 - bots
 - games
-- thejewbot-suggestions
+- themootbot-suggestions
 - quotes
 ::::

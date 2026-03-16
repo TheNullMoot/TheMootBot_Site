@@ -20,7 +20,8 @@ export default function RandomQuote() {
     "ERROR - Containment Breach Detected.",
     "LOG - New server request received.",
     "Does this bot work? Eh sometimes.",
-    "Fun Fact: [REDACTED]."
+    "Fun Fact: [REDACTED].",
+    "Rebranded but still the same."
   ];
 
   //state stuff

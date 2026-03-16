@@ -23,7 +23,7 @@ This command has an alias which can be used instead of the default command name.
 ::::
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot clear</TabItem><TabItem value='//'>//clear</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheMootBot clear</TabItem><TabItem value='//'>//clear</TabItem></Tabs>
 
 ### You Can't use this Command
 ::::warning These command are not allowed to be used by peasants in any channel.
