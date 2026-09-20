@@ -11,11 +11,6 @@ This page includes the list of all commands that were added or updated in the mo
 Clicking on a command name will bring you to that command's page.
 ::::
 
-## New Commands
-
-- [carry](voice/carry.md)
-- [piss](voice/piss.md)
-
 ## Updated Commands
 
-- [sex](voice%20multiple/sex.md)
+- [music](voice%20multiple/music.md)
