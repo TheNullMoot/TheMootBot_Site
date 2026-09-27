@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: sends a random quote from the quote channel.
 
-**Last Updated**: 2/28/2025
+**Last Updated**: 9/26/2026
 
 ## Using the command
 

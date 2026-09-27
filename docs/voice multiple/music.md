@@ -36,6 +36,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. freebird
  1. froghorn
  1. got
+ 1. hardware
  1. homedepot
  1. horizonDreamer
  1. jams
